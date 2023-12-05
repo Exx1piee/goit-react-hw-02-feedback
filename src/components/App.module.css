@@ -1,0 +1,27 @@
+.formFeedback {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 50px;
+  }
+  .feedback {
+      padding: 15px;
+      min-height: 200px;
+    }
+    .feedbackTitle {
+      color: rgb(11, 11, 11);
+    }
+    .statistics {
+      padding: 15px;
+      background-color: grey;
+      box-shadow:  grey;
+      border-radius: 5px;
+      min-width: 210px;
+      min-height: 200px;
+    }
+    .statisticsTitle {
+        color: rgb(186, 186, 186);
+        height: 24px;
+    }
+    
